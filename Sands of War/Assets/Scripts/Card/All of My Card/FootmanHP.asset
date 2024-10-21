@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a6466cff050c62499c913ab1870e78f, type: 3}
+  m_Name: FootmanHP
+  m_EditorClassIdentifier: 
+  CardName: Bronze Spearman
+  Description: 'A tough warrior with a spear and shield.  '
+  Movment: 'Movment : '
+  artwork: {fileID: 21300000, guid: 4d630b6f0b9cc464985ccb700daa4882, type: 3}
+  ManaCost: 3
+  Attack: 1
+  health: 5
